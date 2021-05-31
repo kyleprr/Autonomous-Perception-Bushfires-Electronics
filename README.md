@@ -9,7 +9,7 @@ The code for the microcontrollers can be found here:
 [`Teensy 4.0`](https://github.com/kyleprr/AutonomousFireDataCollect/tree/main/Electronics/Sensors-Teensy4.0)
 [`ESP8266`](https://github.com/kyleprr/AutonomousFireDataCollect/tree/main/Electronics/Atmega328p-GPS)
 
-### Implementat
+### Custom Circuit Boards Developed
 
 
 #### 1. Main Controller:
