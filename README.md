@@ -6,6 +6,11 @@ MMD - Team 15 (Autonomous Perception for Bushfires) [Ignis Automation]
 - Jessica  Wind
 
 
+### Implementat
+
+
+#### 0. References
+
 
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Main-Controller.jpg" width="400">
 
