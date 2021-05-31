@@ -1,7 +1,7 @@
 #  Autonomous Perception for Bushfires - Electronics
 MMD - Team 15 (Autonomous Perception for Bushfires) [Ignis Automation]
 - Kyle Pereira
-- Jacbo Vartanian
+- Jacob Vartanian
 - Esteban Andrade
 - Jessica  Wind
 
