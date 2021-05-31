@@ -7,4 +7,4 @@ MMD - Team 15 (Autonomous Perception for Bushfires) [Ignis Automation]
 
 
 
-<img src="https://github.com/lihuang3/ur5_notebook/blob/master/media/demo1.gif" width="400">
+<img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Main-Controller.jpg" width="400">
