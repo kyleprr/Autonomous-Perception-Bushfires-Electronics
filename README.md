@@ -5,8 +5,9 @@ MMD - Team 15 (Autonomous Perception for Bushfires) [Ignis Automation]
 - Esteban Andrade
 - Jessica  Wind
 
-[`ur5_vision.py`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_vision.py), and publish its position. UR5 plans its motion [`ur5_mp.py`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_mp.py) to follow the  [`ur5_gripper.py`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_gripper.py). 
-
+The code for the microcontrollers can be found here:
+[`Teensy 4.0`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_vision.py)
+[`ESP8266`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_vision.py)
 
 ### Implementat
 
