@@ -18,12 +18,11 @@ The code for the microcontrollers can be found here:
 #### 2. Power Management:
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Power-Management.jpg" width="400">
 
-#### 3. Sensors
+#### 3. Sensors:
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Sensors.jpg" width="400">
 
 #### 4. User Controller:
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/User-Controller.jpg" width="400">
 
-
-#### . Connections/Layout:
+#### 5. Connections/Layout:
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Connections.png" width="1200">
