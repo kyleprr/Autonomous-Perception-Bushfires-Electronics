@@ -19,7 +19,6 @@ The code for the microcontrollers can be found here:
 
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Power-Management.jpg" width="400">
 
-
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/Sensors.jpg" width="400">
 
 <img src="https://github.com/kyleprr/Autonomous-Perception-Bushfires-Electronics/blob/main/Images/User-Controller.jpg" width="400">
