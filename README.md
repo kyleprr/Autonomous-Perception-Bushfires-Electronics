@@ -6,8 +6,8 @@ MMD - Team 15 (Autonomous Perception for Bushfires) [Ignis Automation]
 - Jessica  Wind
 
 The code for the microcontrollers can be found here:
-[`Teensy 4.0`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_vision.py)
-[`ESP8266`](https://github.com/lihuang3/ur5_ROS-Gazebo/blob/master/ur5_vision.py)
+[`Teensy 4.0`](https://github.com/kyleprr/AutonomousFireDataCollect/tree/main/Electronics/Sensors-Teensy4.0)
+[`ESP8266`](https://github.com/kyleprr/AutonomousFireDataCollect/tree/main/Electronics/Atmega328p-GPS)
 
 ### Implementat
 
